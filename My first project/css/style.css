@@ -1,0 +1,12 @@
+h1 {
+    background-color: pink;
+    text-align: center;
+    padding: 20px;
+}
+main {
+    background: black;
+}
+footer{
+    background-color:pink;
+    padding:20px;
+}
